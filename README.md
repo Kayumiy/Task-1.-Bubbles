@@ -32,6 +32,16 @@ Value range between ObjectMinRadius and  ObjectMaxRadius should be small if you 
 Диапазон значений между ObjectMinRadius и ObjectMaxRadius должен быть небольшим, если вы хотите видеть четкий результат.
 
 
+
+
+
+
+
+References:
+http://www.ambrsoft.com/TrigoCalc/Circles2/circle2intersection/CircleCircleIntersection.htm
+
+![image](https://user-images.githubusercontent.com/22438366/94359590-acb83500-00eb-11eb-8fbf-1c93d7fea49f.png)
+
              
          
               
